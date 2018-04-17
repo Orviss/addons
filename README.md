@@ -1,0 +1,2 @@
+# addons
+OpenGrok addons
